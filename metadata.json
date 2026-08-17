@@ -1,0 +1,6 @@
+{
+  "name": "Sheet Dashboard",
+  "description": "Multi-database production platform for Kiln-1400, Dryer-1400, and Set_1400 (Setting & Wagon Loading) with Persian data entry forms, Firestore live synchronization, Excel/Google Sheets smart import, and tabular record management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
